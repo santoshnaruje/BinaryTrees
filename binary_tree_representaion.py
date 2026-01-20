@@ -4,7 +4,6 @@ class Node:
         self.left = None
         self.right = None
 
-
 class Solution:
     def createBinaryTree(self):
         # Creates the root node with key value 1
